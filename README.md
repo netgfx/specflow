@@ -12,3 +12,5 @@
 	- Allows filtering of the database table data
 - Display output node
 	- Displays the raw data returned from the previous nodes connected to it (usually filter node)
+
+![markmap](https://user-images.githubusercontent.com/864248/162584595-90b7f630-bb9b-48c2-8153-60a3c6b4bd2b.svg)
