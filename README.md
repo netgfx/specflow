@@ -13,4 +13,4 @@
 - Display output node
 	- Displays the raw data returned from the previous nodes connected to it (usually filter node)
 
-![markmap](https://user-images.githubusercontent.com/864248/162584595-90b7f630-bb9b-48c2-8153-60a3c6b4bd2b.svg)
+![mind-mappng](https://user-images.githubusercontent.com/864248/162585141-3692205c-3320-4a93-bcf4-2fe4f5bf8d45.png)
