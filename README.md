@@ -30,5 +30,7 @@ Supabase was also used for the complete account management of our website and pr
 
 ---
 
+The website and components were build via Framer (https://framer.com), big thanks to the Framer community for their support and assistance!
+
 > Special Thanks to @Envans (e.doni@7linternational.com), @gbarmpas7L (g.barmpas@7linternational.com), @EmilyPapadourou (e.papadourou@7linternational.com
 ) for developing this hackathon entry and PoC 👍
